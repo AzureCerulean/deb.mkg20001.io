@@ -1,6 +1,6 @@
 # deb.mkg20001.io
 
-A PPA offering various pieces of software downloaded from their orignal vendors for automatic updating
+A PPA offering various pieces of software downloaded from their original vendors for automatic updating
 
 Currently offering:
 - [duniter](https://duniter.org)
